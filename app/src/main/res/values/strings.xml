@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Ideal Match</string>
+    <string name="member_accepted">Member accepted</string>
+    <string name="member_declined">Member declined</string>
+    <string name="profile_image_description">Users profile image</string>
+    <string name="accepted_clicked">Member accepted </string>
+    <string name="declined_clicked">Member declined </string>
+    <string name="age"> \nAGE: %d</string>
+    <string name="comma">, </string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="today">today</string>
+    <string name="yesterday">yesterday</string>
+    <string name="some_day_ago">%d days ago</string>
+    <string name="instance_error">Oops! You are trying to violate class policy.</string>
+    <string name="no_data">No data found from database</string>
+</resources>
